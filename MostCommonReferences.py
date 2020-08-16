@@ -1,4 +1,4 @@
-# Finds the most commmonly cited journal in a References / Citation List
+# Finds the most commmonly cited publication in a References / Citation List
 # Sarthak Gupta
 # 05/12/2020
 
